@@ -1,6 +1,6 @@
 # keras-MemN2N
 
-**过程详见blog：**使用 keras 复现 MemN2N[](https://rocuku.github.io/keras-memn2n/)
+**过程详见blog：**[使用 keras 复现 MemN2N](https://rocuku.github.io/keras-memn2n/)
 
 **参考论文：**[《End-To-End Memory Networks》](https://arxiv.org/abs/1503.08895)
 
